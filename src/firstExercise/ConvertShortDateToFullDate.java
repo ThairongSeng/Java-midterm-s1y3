@@ -1,3 +1,5 @@
+package firstExercise;
+
 import java.text.DateFormatSymbols;
 import java.util.Scanner;
 
